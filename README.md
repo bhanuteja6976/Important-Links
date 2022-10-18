@@ -43,6 +43,15 @@
 **Github Free Resource on React**
 >https://github.com/facebook/react
 
+**DSA Projects**
+>https://www.youtube.com/watch?v=MeWudwrnk58
+
+**Python Projects**
+>https://www.youtube.com/watch?v=sVdNVgtpkD4
+
+**React Projects**
+>https://www.youtube.com/watch?v=hYv6BM2fWd8
+
 
 
 
