@@ -19,3 +19,30 @@
 **IITM Ultimate DSA Sheet**
 >https://docs.google.com/spreadsheets/d/1DAMnB1d0Tg8sbuKP91jTSevTKLtvNgFJKjOsNjSYUw0/edit#gid=0
 
+**Probability Website**
+>https://www.probabilitycourse.com/
+
+**Binary Search Leetcode Playlist**
+>https://leetcode.com/list/e5vjd5xs/
+
+**Classical Greedy Problems Practice Website**
+>https://www.spoj.com/problems/classical/
+
+**DP Beginner To Advanced**
+>https://singhkunal01.github.io/Dynamic-Programming/
+
+**Flourish(Data Visualisation Website)**
+>https://flourish.studio/
+
+**Good Website for System Design Interviews**
+>https://www.educative.io/courses/grokking-the-system-design-interview
+
+**For Python Preparation**
+>https://learnpython.org/
+
+**Github Free Resource on React**
+>https://github.com/facebook/react
+
+
+
+
