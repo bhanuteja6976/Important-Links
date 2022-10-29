@@ -24,7 +24,7 @@ Important links for the future
 
 **IITM Ultimate DSA Sheet**
 
-> https://docs.google.com/spreadsheets/d/1DAMnB1d0Tg8sbuKP91jTSevTKLtvNgFJKjOsNjSYUw0/edit#gid=0
+> https://docs.google.com/spreadsheets/d/1snGoepVC97gB8DennJpTtZVNmj8Mmf5qgmUPHeJOig8/edit#gid=0
 
 **Probability Website**
 
